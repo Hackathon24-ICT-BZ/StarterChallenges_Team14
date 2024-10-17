@@ -5,7 +5,7 @@ Repo für Team14 in "Starter Challenges"
 - Projekt-Titel:Kurze Loop-Animationen eines Charakters
 - Projekt-Beschreibung: Wir lernen, wie man Figuren animiert und erstellen ein bis drei kurze Loopanimationen, die später in einen PC integriert werden können. 
 - Benötigte Hardware: Laptop, Maus, vll Graphic Tablet oder sonst eine Möglichkeit, digital zu zeichnen
-- Eingesetzte Technologien (Programmiersprache, Frameworks etc.): Adobe Animate
+- Eingesetzte Technologien (Programmiersprache, Frameworks etc.): Adobe Animate, Blender oder ein ähnliches Programm
 - Max. Anzahl Teammitglieder: unbegrenzt 
 - Zuständigkeit: Michelle Mayr 
 - E-Mail: michelle.mayr03@gmail.com 
